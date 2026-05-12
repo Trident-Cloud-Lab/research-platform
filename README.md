@@ -1,6 +1,6 @@
-# Mindware Lab
+# Trident Cloud Lab
 
-Mindware Lab is a modular research platform for computational neuroscience workflows.
+Trident Cloud Lab is a modular research platform for computational neuroscience workflows.
 
 It is designed to combine:
 - a knowledge bank (papers, notes, concept graph)
