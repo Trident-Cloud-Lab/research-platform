@@ -107,4 +107,5 @@ Mindware-Lab/
 1. Review architecture: `docs/ARCHITECTURE.md`
 2. Start with actionable first steps: `docs/FIRST_STEPS_IMPLEMENTATION_PLAN.md`
 3. Use the full roadmap: `docs/IMPLEMENTATION_PLAN.md`
-4. Configure integration secrets: `configs/env/README.md`
+4. Review deployment placement: `docs/DUAL_MACHINE_IMPLEMENTATION.md`
+5. Configure integration secrets: `configs/env/README.md`
