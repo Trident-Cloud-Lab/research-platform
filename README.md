@@ -11,6 +11,10 @@ It is designed to combine:
 
 The repository is structured for VSCode + Codex development, GitHub automation, Obsidian free-tier graph exploration, and citation/data integration through Zotero and OSF.
 
+Ground-truth and protocol sources:
+- Ground truth: `Trident-Cloud-Lab/Cloud-Lab-Ground-Truth`
+- Protocol source: `Trident-Cloud-Lab/Trident-G-theory`
+
 ## Core capabilities
 
 1. Knowledge bank with linked notes
@@ -51,7 +55,7 @@ The repository is structured for VSCode + Codex development, GitHub automation, 
 ## Repository map
 
 ```text
-Mindware-Lab/
+research-platform/
   README.md
   docs/
     ARCHITECTURE.md
